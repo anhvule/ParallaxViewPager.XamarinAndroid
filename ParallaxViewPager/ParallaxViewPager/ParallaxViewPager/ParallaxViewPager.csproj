@@ -85,11 +85,11 @@
     <AndroidResource Include="Resources\drawable-mdpi\campaign6.jpg" />
     <AndroidResource Include="Resources\drawable-mdpi\campaign7.jpg" />
     <AndroidResource Include="Resources\drawable-mdpi\campaign8.jpg" />
-    <AndroidResource Include="Resources\drawable\campaign4.jpg" />
-    <AndroidResource Include="Resources\drawable\campaign5.jpg" />
-    <AndroidResource Include="Resources\drawable\campaign6.jpg" />
-    <AndroidResource Include="Resources\drawable\campaign7.jpg" />
-    <AndroidResource Include="Resources\drawable\campaign8.jpg" />
+    <AndroidResource Include="Resources\drawable\image1.jpg" />
+    <AndroidResource Include="Resources\drawable\image2.jpg" />
+    <AndroidResource Include="Resources\drawable\image3.jpg" />
+    <AndroidResource Include="Resources\drawable\image4.jpg" />
+    <AndroidResource Include="Resources\drawable\image5.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

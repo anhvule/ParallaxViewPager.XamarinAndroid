@@ -8,10 +8,11 @@ namespace ParallaxViewPager
     {
         private static ObservableCollection<string> _campaignImages = new ObservableCollection<string>()
         {
-            "campaign4.jpg",
-            "campaign5.jpg",
-            "campaign6.jpg",
-            "campaign7.jpg",
+            "image1.jpg",
+            "image2.jpg",
+            "image3.jpg",
+            "image4.jpg",
+            "image5.jpg",
         };
 
         public static ObservableCollection<Item> Create()

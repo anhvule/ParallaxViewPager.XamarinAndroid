@@ -62,6 +62,21 @@ namespace ParallaxViewPager
 			// aapt resource value: 0x7f020005
 			public const int Icon = 2130837509;
 			
+			// aapt resource value: 0x7f020006
+			public const int image1 = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int image2 = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int image3 = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int image4 = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int image5 = 2130837514;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

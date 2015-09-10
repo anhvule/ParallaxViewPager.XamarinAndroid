@@ -1,8 +1,8 @@
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\ParallaxViewPager.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\Mono.Android.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\mscorlib.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\System.Core.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\System.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\System.Xml.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
-D:\Workspace\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\ParallaxViewPager.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\Mono.Android.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\mscorlib.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\System.Core.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\System.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\System.Xml.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+D:\Workspace\ParallaxViewPagerRepo\ParallaxViewPager\ParallaxViewPager\ParallaxViewPager\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll

@@ -17,6 +17,11 @@ public final class R {
         public static final int campaign7=0x7f020003;
         public static final int campaign8=0x7f020004;
         public static final int icon=0x7f020005;
+        public static final int image1=0x7f020006;
+        public static final int image2=0x7f020007;
+        public static final int image3=0x7f020008;
+        public static final int image4=0x7f020009;
+        public static final int image5=0x7f02000a;
     }
     public static final class id {
         public static final int imageButton1=0x7f050001;

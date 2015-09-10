@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ParallaxViewPager\MainActivity.cs">
     <Files>
-      <File FileName="ParallaxViewPager\MainActivity.cs" Line="3" Column="19" />
+      <File FileName="ParallaxViewPager\MainActivity.cs" Line="30" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
